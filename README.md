@@ -15,7 +15,4 @@ I hold a degree in Computer Science, specializing in Data Science, Data Analysis
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=alhanoufALLUHAYDAN&icon=5&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
