@@ -1,5 +1,5 @@
 # 💫 About Me:
-I hold a degree in Computer Science, specializing in Data Science, Data Analysis, and Machine Learning. As a developer, I focus on building applications and websites. I believe technology drives innovation and problem-solving, and I’m eager to grow my skills and contribute to creating impactful solutions.<br>
+I hold a degree in Computer Science, with a strong interest in Data Science, Data Analysis, and Machine Learning. As a developer, I focus on building applications and websites. I believe technology drives innovation and problem-solving, and I’m eager to grow my skills and contribute to creating impactful solutions.<br>
 
 
 ## 🌐 Socials:
